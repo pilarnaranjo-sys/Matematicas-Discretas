@@ -2,7 +2,7 @@
 
 # 💗🌷 **Portafolio Digital de Aprendizaje**  
 ## ✨🧮 *Matemáticas Discretas* ✨
-
+  <span>✦ ✧ ✦ ✧ ✦ ✧ ✦</span>
 </div>
 
 ---
