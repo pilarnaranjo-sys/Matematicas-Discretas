@@ -29,7 +29,7 @@ Aquí se realizan lecturas guiadas, revisiones teóricas y ejercicios adicionale
 Este proceso permite desarrollar una intuición más sólida sobre la lógica, mejorar la precisión al razonar y afianzar la capacidad para identificar y corregir errores por cuenta propia.
 
 #### 🌸 Trabajos
-- 🌼 Lectura y ejercicios — [☁️ Acceder ☁️](Trabajos/AA.pdf)
+- 🌼 Lectura y ejercicios — [☁️ Acceder ☁️](Trabajos/AA..pdf)
 - ✨ Portafolio de Matemáticas Discretas[☁️ Acceder ☁️](README.md)
 
 ---
