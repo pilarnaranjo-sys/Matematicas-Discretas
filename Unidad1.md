@@ -22,7 +22,7 @@ Práctica de los conocimientos aprendidos en clase. A través de ejercicios, pro
 
 ---
 
-## 🌸 **AA — Aprendizaje Autónomo**
+## 🫧 **AA — Aprendizaje Autónomo**
 
 El aprendizaje autónomo ofrece un espacio personal para profundizar con calma en los temas estudiados.  
 Aquí se realizan lecturas guiadas, revisiones teóricas y ejercicios adicionales diseñados para fortalecer la comprensión individual.  
